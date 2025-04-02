@@ -1,1 +1,1 @@
-This repository is a practice area for studying DATA 100.
+Practice Pandas Library by creating data analyzing projects.
