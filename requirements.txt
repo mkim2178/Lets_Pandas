@@ -1,3 +1,6 @@
 ipykernel
 jupyter
 pandas
+plotly
+matplotlib
+seaborn
