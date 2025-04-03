@@ -1,8 +1,6 @@
-# Project Setup Guide
+# Let's Pandas!
 
-## Setting Up a Virtual Environment and Installing Dependencies
-
-Follow these steps to create a virtual environment and install the required dependencies for this project.
+## To try my pandas projects, please follow these steps to set up a virtual environment and install required dependencies.
 
 ### 1️⃣ Create a Virtual Environment
 
@@ -72,4 +70,4 @@ deactivate
 
 ### 🎯 You're all set! 🎯
 
-You have successfully set up your virtual environment and installed the dependencies. Happy coding! 🚀
+You have successfully set up your virtual environment and installed the dependencies! 🚀
