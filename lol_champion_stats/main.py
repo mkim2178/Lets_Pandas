@@ -1,5 +1,5 @@
 """
-Code adapted from python-lol-champ-stats by Kelvinn Samuel
+Code adapted from python-lol-champ-stats by Kelvin Samuel
 Source: https://github.com/kks110/python-lol-champ-stats
 """
 
